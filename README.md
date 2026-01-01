@@ -1,3 +1,4 @@
 # Demo
 ### This is a practice of text file 
-and create and update file i.e. commit and its history
+creating and updating file i.e. commit and its history \
+adding a new line to the text and making some changes to old text
